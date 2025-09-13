@@ -1,0 +1,18 @@
+# Unity – artefactos generados
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+# Proyectos/soluciones de IDE
+*.csproj
+*.sln
+*.user
+*.pidb
+*.pdb
+*.svd
+*.unityproj
+*.booproj
